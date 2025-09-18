@@ -1,0 +1,8 @@
+requests
+PyJWT
+python-dotenv
+Flask
+Flask-Cors
+pymongo
+pydantic
+colorama
